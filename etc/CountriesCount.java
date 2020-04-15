@@ -1,5 +1,3 @@
-// Codility - Countires count
-// This is from Grakn
 // https://github.com/lekaha/coding_practice/blob/master/codility/countries_count.py
 class Solution {
     private static final int filled = 1000000001;

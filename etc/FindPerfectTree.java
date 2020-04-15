@@ -1,5 +1,3 @@
-// This is from Grakn
-// This if from Codility
 // https://www.geeksforgeeks.org/find-the-largest-complete-subtree-in-a-given-binary-tree/
 // https://www.geeksforgeeks.org/find-the-largest-perfect-subtree-in-a-given-binary-tree/
 
